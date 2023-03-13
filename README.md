@@ -1,8 +1,8 @@
 # Hi there, I'm Shonie - aka [shoniecaplan][youtube] 👋
 
-[[<img align="left" alt="youtubeimg" width="30px" src="https://user-images.githubusercontent.com/94767648/224810454-23103b36-deff-4c5c-ab0d-aab4a0eb4ae8.png" style="padding-right:100px;" />][youtube] - [Youtube Channel](https://www.youtube.com/@the4aminventor)]
-
+### [<img align="left" alt="youtubeimg" width="30px" src="https://user-images.githubusercontent.com/94767648/224810454-23103b36-deff-4c5c-ab0d-aab4a0eb4ae8.png" style="padding-right:10px;" />][youtube] [Youtube](https://www.youtube.com/@the4aminventor)
 <br />
+
 ## I'm an Electronics Hobbyist and Physics Student!
 
 - ⚛️ Atom is still better than VSC
