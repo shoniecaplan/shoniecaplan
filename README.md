@@ -6,7 +6,7 @@
 
 - ⚛️ Atom is still better than VSC
 - 📈 I’m currently learning Rust
-- 🥅 2023 Goals: Learn more about Rust!
+- 🚀 2023 Goals: Learn more about Rust & Commit to more open source projects!
 
 ### Languages and Tools I Use:
 
@@ -20,9 +20,9 @@
 [<img align="left" alt="Ubuntu" width="30px" src="https://user-images.githubusercontent.com/94767648/224800541-0b0f41f3-99f2-452f-85ea-6bb76d391fc6.png" style="padding-right:10px;" />][youtube]
 
 <br />
-<br />
-### More:
-➡️ [Arduino Cloud Games 2022 Project](https://www.hackster.io/shonie4caplan/improving-work-efficiency-with-fitbit-cloudgames-e34b0e)
+
+#### More:
+- ➡️ [Arduino Cloud Games 2022 Project](https://www.hackster.io/shonie4caplan/improving-work-efficiency-with-fitbit-cloudgames-e34b0e)
 
 
 [youtube]: https://www.youtube.com/@the4aminventor
