@@ -1,7 +1,6 @@
 # Hi there, I'm Shonie - aka [shoniecaplan][youtube] 👋
 
-[[<img align="left" alt="youtubeimg" width="70px" src="https://user-images.githubusercontent.com/94767648/224806074-4c4b812c-3bc8-4e9a-abdd-268a9664108f.png" style="padding-right:20px;" />] [youtube]
-[Youtube Channel](https://www.youtube.com/@the4aminventor)
+[[<img align="left" alt="youtubeimg" width="70px" src="https://user-images.githubusercontent.com/94767648/224806074-4c4b812c-3bc8-4e9a-abdd-268a9664108f.png" style="padding-right:20px;" />][youtube] [Youtube Channel](https://www.youtube.com/@the4aminventor)
 
 <br />
 ## I'm an Electronics Hobbyist and Physics Student!
