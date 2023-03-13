@@ -11,7 +11,7 @@
 ### Languages and Tools I Use:
 
 [<img align="left" alt="C++" width="30px" src="https://user-images.githubusercontent.com/94767648/224788154-65db2b9c-ccdb-47f2-a245-423af5fb5da8.png" style="padding-right:10px;" />][youtube]
-[<img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][youtube]
+[<img align="left" alt="C" width="30px" src="https://user-images.githubusercontent.com/94767648/224791376-6f7baa8a-1552-4ed6-9613-1159731dfbff.png" style="padding-right:10px;" />][youtube]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][youtube]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][youtube]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][youtube]
