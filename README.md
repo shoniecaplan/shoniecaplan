@@ -12,7 +12,7 @@
 
 [<img align="left" alt="C++" width="30px" src="https://user-images.githubusercontent.com/94767648/224788154-65db2b9c-ccdb-47f2-a245-423af5fb5da8.png" style="padding-right:10px;" />][youtube]
 [<img align="left" alt="C" width="30px" src="https://user-images.githubusercontent.com/94767648/224791376-6f7baa8a-1552-4ed6-9613-1159731dfbff.png" style="padding-right:10px;" />][youtube]
-[<img align="left" alt="Arduino" width="30px" src="https://user-images.githubusercontent.com/94767648/224791826-077a0d2c-2192-4eeb-90c0-4cf5d5521f3a.png" style="padding-right:10px;padding-top:10px;" />][youtube]
+[<img align="left" alt="Arduino" width="30px" src="https://user-images.githubusercontent.com/94767648/224791826-077a0d2c-2192-4eeb-90c0-4cf5d5521f3a.png" style="padding-right:10px;padding-top:100px;" />][youtube]
 [<img align="left" alt="Python" width="30px" src="https://user-images.githubusercontent.com/94767648/224792510-925eed22-071e-4bd4-a5c8-3351a70e5598.png" style="padding-right:10px;" />][youtube]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][youtube]
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][youtube]
