@@ -1,13 +1,14 @@
-# Hi there, I'm Shonie - aka [shoniecaplan][youtube] 👋
-
-### [<img align="left" alt="youtubeimg" width="30px" src="https://user-images.githubusercontent.com/94767648/224810454-23103b36-deff-4c5c-ab0d-aab4a0eb4ae8.png" style="padding-right:10px;" />][youtube] [Youtube](https://www.youtube.com/@the4aminventor)
-<br />
+# Hi there, I'm Shonie👋 
+- This is my project repository!
 
 ## Electronics Hobbyist & Physics Student
 
-- ⚛️ Atom is still better than VSC
-- 📈 I’m currently learning Rust
-- 🚀 2023 Goals: Learn more about Rust & Commit to more open source projects!
+- ⚛️ Atom IDE > Vim > Emacs
+- 📈 Currently learning Rust
+- 🚀 Learn more about Rust & Commit to more open source projects!
+
+### [<img align="left" alt="youtubeimg" width="30px" src="https://user-images.githubusercontent.com/94767648/224810454-23103b36-deff-4c5c-ab0d-aab4a0eb4ae8.png" style="padding-right:10px;" />][youtube] [Youtube](https://www.youtube.com/@the4aminventor)
+<br />
 
 ### Languages and Tools I Use:
 
@@ -22,7 +23,6 @@
 
 <br />
 <br />
-
 #### More:
 - ➡️ [Arduino Cloud Games 2022 Project](https://www.hackster.io/shonie4caplan/improving-work-efficiency-with-fitbit-cloudgames-e34b0e)
 
