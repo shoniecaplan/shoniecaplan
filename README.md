@@ -4,8 +4,7 @@
 ## Electronics Hobbyist & Physics Student
 
 - ⚛️ Atom IDE > Vim > Emacs
-- 📈 Currently learning Rust
-- 🚀 Learn more about Rust & Commit to more open source projects!
+- 📈 Currently: Building the perfect organization app for students
 
 ### [<img align="left" alt="youtubeimg" width="30px" src="https://user-images.githubusercontent.com/94767648/224810454-23103b36-deff-4c5c-ab0d-aab4a0eb4ae8.png" style="padding-right:10px;" />][youtube] [Youtube](https://www.youtube.com/@the4aminventor)
 <br />
