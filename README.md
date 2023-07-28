@@ -1,7 +1,7 @@
 # Hi there, I'm Shonie👋 
-- This is my project repository!
+- Welcome to my project repository!
 
-## Hardware Hacker, UW Mathematical Physics Student, and proud user of the (now dead) Atom IDE
+### Hardware Hacker, UW Mathematical Physics Student, and proud user of the (now dead) Atom IDE
 
 - ⚛️ Atom IDE > Vim > Emacs
 - 📈 Currently: Building the perfect organization app for students
