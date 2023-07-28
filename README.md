@@ -1,10 +1,11 @@
 # Hi there, I'm Shonie👋 
 - This is my project repository!
 
-## Electronics Hobbyist & Physics Student
+## Hardware Hacker, UW Mathematical Physics Student, and proud defender of the (now dead) Atom IDE
 
 - ⚛️ Atom IDE > Vim > Emacs
 - 📈 Currently: Building the perfect organization app for students
+- 📈 Currently: Continuing development on IoT Autonomous model car
 
 ### [<img align="left" alt="youtubeimg" width="30px" src="https://user-images.githubusercontent.com/94767648/224810454-23103b36-deff-4c5c-ab0d-aab4a0eb4ae8.png" style="padding-right:10px;" />][youtube] [Youtube](https://www.youtube.com/@the4aminventor)
 <br />
