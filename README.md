@@ -4,11 +4,9 @@
 ### Hardware Hacker, UW Mathematical Physics Student, and proud user of the (now dead) Atom IDE
 
 - ⚛️ Atom IDE > Vim > Emacs
-- 📈 Currently: Building the perfect organization app for students
 - 📈 Currently: Continuing development on IoT Autonomous model car
-
+- 📈 Currently: Building the perfect organization app for students
 ### [<img align="left" alt="youtubeimg" width="30px" src="https://user-images.githubusercontent.com/94767648/224810454-23103b36-deff-4c5c-ab0d-aab4a0eb4ae8.png" style="padding-right:10px;" />][youtube] [Youtube](https://www.youtube.com/@the4aminventor)
-<br />
 
 ### Languages and Tools I Use:
 
