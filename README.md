@@ -1,7 +1,7 @@
 # Hi there, I'm Shonie👋 
 - Welcome to my project repository!
 
-### Hardware Hacker, UW Mathematical Physics Student, and proud user of the (now dead) Atom IDE
+### Hardware Hobbyist, UW Mathematical Physics Student, and proud user of the (now dead) Atom IDE
 
 - 📈 Currently: Continuing development on IoT Autonomous model car
 - 📈 Currently: Building the perfect organization app for students
