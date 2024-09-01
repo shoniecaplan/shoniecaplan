@@ -1,7 +1,7 @@
 # Hi there, I'm Shonie👋 
 - Welcome to my project repository!
 
-### UW Mathematical Physics Student, and proud user of the (now dead) Atom IDE
+### Proud user of the (now dead) Atom IDE
 
 - 📈 Currently: Applying LightGBM & Gradient Boosting to Sabermetrics
 - 📈 Currently: Continuing development on IoT Autonomous model car
