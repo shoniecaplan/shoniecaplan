@@ -1,7 +1,7 @@
 # Hi there, I'm Shonie👋 
 - Welcome to my project repository!
 
-### Proud user of the (now dead) Atom IDE
+### Proud user of Atom IDE
 
 - 📈 Currently: Building Multi-Agent RL Model for Risk
 - 📈 Currently: Continuing development on IoT Autonomous model car
