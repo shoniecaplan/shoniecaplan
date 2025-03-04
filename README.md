@@ -3,6 +3,7 @@
 
 ### Proud user of Atom IDE
 
+- 📈 Currently: Lead developer for ReachMatrix (enterprise software)
 - 📈 Currently: Building Multi-Agent RL Model for Risk
 - 📈 Currently: Continuing development on IoT Autonomous model car
 <!--- ### [<img align="left" alt="youtubeimg" width="30px" src="https://user-images.githubusercontent.com/94767648/224810454-23103b36-deff-4c5c-ab0d-aab4a0eb4ae8.png" style="padding-right:10px;" />][youtube] [Youtube](https://www.youtube.com/@the4aminventor) --->
