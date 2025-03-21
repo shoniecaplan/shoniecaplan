@@ -1,7 +1,7 @@
 # Hi there, I'm Shonie👋 
 - Welcome to my project repository!
 
-### Proud user of ~~Atom IDE~~ Zed
+### Proud user of ~~Atom IDE~~  Zed
 
 - 📈 Currently: Lead developer for ReachMatrix (enterprise software)
 - 📈 Currently: Building Multi-Agent RL Model for Risk
