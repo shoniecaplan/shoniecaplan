@@ -21,7 +21,7 @@
 <br />
 
 #### More:
-- ➡️ [shonie.ca](https://shonie.ca)
+- ⭐ [shonie.ca](https://shonie.ca)
 - ➡️ [SpurHacks 2025 Project](https://devpost.com/software/superposition-fxyim9)
 - ➡️ [Arduino Cloud Games 2022 Project](https://www.hackster.io/shonie4caplan/improving-work-efficiency-with-fitbit-cloudgames-e34b0e)
 
