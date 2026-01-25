@@ -1,7 +1,7 @@
 # Hi there, I'm Shonie👋 
 - Welcome to my project repository!
 
-### Proud user of ~~Atom IDE~~  VSCode
+### Proud user of ~~Atom IDE~~  Neovim
 
 - 📈 Currently: ```¯\_(ツ)_/¯```
 <!--- ### [<img align="left" alt="youtubeimg" width="30px" src="https://user-images.githubusercontent.com/94767648/224810454-23103b36-deff-4c5c-ab0d-aab4a0eb4ae8.png" style="padding-right:10px;" />][linkedin] [linkedin](https://www.youtube.com/@the4aminventor) ---> 
