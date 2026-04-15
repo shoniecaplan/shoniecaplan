@@ -12,7 +12,6 @@
 [<img align="center" alt="GO" width="73px" src="https://github.com/user-attachments/assets/c54f93c3-c38d-4434-9e73-f087ba3ba63e" style="padding-right:10px; padding-bottom:10px" />][shonie.ca]
 
 <br />
-<br />
 
 #### More:
 - ⭐ [shonie.ca](https://shonie.ca)
